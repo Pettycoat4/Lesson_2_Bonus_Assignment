@@ -1,0 +1,22 @@
+.twitter, .facebook, .linkedin{
+	background: url(../img/sprites.png) no-repeat;
+}
+
+.twitter{
+	background-position: -6px -7px ;
+	width: 32px;
+	height: 32px;
+}
+
+.facebook{
+	background-position: -57px -7px ;
+	width: 32px;
+	height: 32px;
+}
+
+.linkedin{
+	background-position: -108px -7.0000152587890625px ;
+	width: 32px;
+	height: 32px;
+}
+

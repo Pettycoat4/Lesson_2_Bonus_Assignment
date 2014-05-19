@@ -1,0 +1,63 @@
+#wrapper {
+	margin: 0 auto;
+	width:100%;
+}
+
+.darkBG  {
+	background-color: #666666;
+}
+
+.lightBG  {
+
+	background-color: #333333;
+}
+
+.float-left {
+	float:left;
+}
+
+.theme1  {
+  background-color: #6b0303;
+  color: white;
+
+}
+
+.theme2 {
+  background-color:#2a2626;
+  color:gray;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+ul li {
+  display:inline-block;
+  color :white;
+  font-family: Verdana;
+  font-size: 1em;
+  margin-right: .9em;
+  padding-top: 1em;
+
+
+}
+
+/***********SOCIAL MEDIA SPRITE SHEET*************/
+
+
+@media screen and (max-width: 400px) {
+
+	ul li {
+  display:inline;
+  color :white;
+  font-family: Verdana;
+  font-size: 1em;
+  margin-right: 2em;
+  padding-top: 1em;
+
+
+}
+
+}
